@@ -1,0 +1,1 @@
+# squid_cross_compile
